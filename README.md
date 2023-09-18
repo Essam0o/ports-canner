@@ -6,5 +6,8 @@ Purpose: Port scanners are primarily used for network reconnaissance and securit
 How It Works: Port scanners work by sending network requests to a range of port numbers on a target system or a range of IP addresses to see which ports respond. The response or lack thereof helps determine the state of each port: open, closed, or filtered (firewalled).
 # how to use
   Fiirst 
-    1- git clone https://github.com/Essam0o/ports-canner.git
-    2- python3 scanner.py "IP Address "
+  
+     git clone https://github.com/Essam0o/ports-canner.git
+  Then 
+  
+     python3 scanner.py "IP Address "
